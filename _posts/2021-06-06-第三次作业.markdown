@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "WEB第三次作业"
+date:   2021-06-06 14:12:39 +0800
+categories: jekyll update
+---
+
+# WEB应用软件开发实训-第3次作业
+> learngit 项目网址为：https://github.com/895201599/learngit
+## 一、必做部分
+### 1、安装Git
+![1git]({{ site.url }}/downloads/1git.png)
+### 2、创建版本库
+![2banbenku]({{ site.url }}/downloads/2banbenku.png)
+### 3、版本控制
+![3control]({{ site.url }}/downloads/3control.png)
+### 4、版本回退
+![4back]({{ site.url }}/downloads/4back.png)
+### 5、工作区和暂存区
+![5work]({{ site.url }}/downloads/5work.png)
+### 6、管理修改
+![6managementmodification]({{ site.url }}/downloads/6managementmodification.png)
+### 7、撤销修改
+![7reversecahnge]({{ site.url }}/downloads/7reversechange.png)
+### 8、删除文件
+![8deletefile]({{ site.url }}/downloads/8deletefile.png)
+### 10、添加到远程仓库
+![10cangku]({{ site.url }}/downloads/10change.png)
+### 三、实验过程
+使用老师发的讲义的步骤，创建learngit项目，然后进行版本控制，再进行回退，最后更改删除，再添加到远程仓库。
+#### 四、总结
+添加远程仓库后，进行代码报错，经查检，是SSH配置问题，改为http即可
